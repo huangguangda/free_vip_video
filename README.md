@@ -7,20 +7,20 @@
 
 ## 分享如下API：
 
-····
-http://api.baiyug.cn/vip/index.php?url=
-http://www.vipjiexi.com/yun.php?url=
-http://api.1008net.com/v.php?url=
-http://api.nepian.com/ckparse/?url=
-http://player.jidiaose.com/supapi/iframe.php?v=
-http://api.pucms.com/index.php?url=
-http://api.wlzhan.com/sudu/?url=
-http://www.0335haibo.com/yun.php?url=
-http://yun.mt2t.com/yun?url=
-http://y.mt2t.com/lines?url=
-http://www.0335haibo.com/yun.php?url=
-http://www.sfsft.com/video.php?url=
-····
+
+> http://api.baiyug.cn/vip/index.php?url=
+> http://www.vipjiexi.com/yun.php?url=
+> http://api.1008net.com/v.php?url=
+> http://api.nepian.com/ckparse/?url=
+> http://player.jidiaose.com/supapi/iframe.php?v=
+> http://api.pucms.com/index.php?url=
+> http://api.wlzhan.com/sudu/?url=
+> http://www.0335haibo.com/yun.php?url=
+> http://yun.mt2t.com/yun?url=
+> http://y.mt2t.com/lines?url=
+> http://www.0335haibo.com/yun.php?url=
+> http://www.sfsft.com/video.php?url=
+
 
 >快速尝试
 
